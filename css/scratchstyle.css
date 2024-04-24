@@ -1,0 +1,41 @@
+/* styles.css */
+
+
+/* CSS rule for styling the body element */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    font-size: large;
+    background-image: url('http://wallpapercave.com/wp/heuAS0w.jpg');
+    text-align-last: left;
+}
+
+/* CSS rule for styling h1 elements */
+h1 {
+    color: rgb(0, 0, 255);
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+
+}
+
+/* CSS rule for styling paragraphs */
+p {
+    color: green;
+}
+.back-to-top {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+  
+  .back-to-top:hover {
+    background-color: darkred;
+    text-align: right;
+  }
+  
